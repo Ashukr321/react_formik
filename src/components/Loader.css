@@ -1,0 +1,23 @@
+.container{
+  background-color:#c7ecee;
+  height:100vh;
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  width:100%;
+}
+
+.loader {
+  width:150px;
+  height:150px;
+  border-right: 2px solid orange;
+  border-bottom: 2px solid #e056fd;
+  border-radius:100%;
+  -webkit-border-radius:100%;
+  -moz-border-radius:100%;
+  -ms-border-radius:100%;
+  -o-border-radius:100%;
+  display:flex;
+  justify-content: center;
+  align-items:center;
+}
